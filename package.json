@@ -29,7 +29,7 @@
     "style-loader": "^1.1.4",
     "webpack": "4.27.1",
     "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.10"
+    "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
     "ammo-debug-drawer": "^1.0.1",
